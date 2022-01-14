@@ -8,9 +8,6 @@ public class Mainfile {
 		while(true) {
 			int coin = 0;
 			int ans = 0;
-			int a = 500;
-			int b = 700;
-			int c = 1200;
 			int abc = 0;
 			
 			Scanner sc = new Scanner(System.in);
